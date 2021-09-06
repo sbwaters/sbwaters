@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sbwaters
 - 👀 I’m interested in scripted/db oriented community news websites
 - 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on next gen Frontier scripting
+- 💞️ I’m looking to collaborate on next gen Frontier/Drummer scripting
 - 📫 How to reach me sbwaters@rnymeida.com
 
 <!---
